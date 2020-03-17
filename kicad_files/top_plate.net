@@ -1,0 +1,42 @@
+(export (version D)
+  (design
+    (source S:\Kicad\projects\budget96\top_plate.sch)
+    (date "7/28/2018 1:42:05 PM")
+    (tool "Eeschema (5.0.0)")
+    (sheet (number 1) (name /) (tstamps /)
+      (title_block
+        (title)
+        (company)
+        (rev)
+        (date)
+        (source top_plate.sch)
+        (comment (number 1) (value ""))
+        (comment (number 2) (value ""))
+        (comment (number 3) (value ""))
+        (comment (number 4) (value "")))))
+  (components
+    (comp (ref R1)
+      (value R)
+      (footprint donutbrary:budget96_plate_top)
+      (libsource (lib Device) (part R) (description Resistor))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 5B104A0C)))
+  (libparts
+    (libpart (lib Device) (part R)
+      (description Resistor)
+      (docs ~)
+      (footprints
+        (fp R_*))
+      (fields
+        (field (name Reference) R)
+        (field (name Value) R))
+      (pins
+        (pin (num 1) (name ~) (type passive))
+        (pin (num 2) (name ~) (type passive)))))
+  (libraries
+    (library (logical Device)
+      (uri S:\Kicad\share\kicad\library/Device.lib)))
+  (nets
+    (net (code 1) (name GND)
+      (node (ref R1) (pin 1))
+      (node (ref R1) (pin 2)))))
