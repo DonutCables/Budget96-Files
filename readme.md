@@ -7,3 +7,6 @@ Included in this are:
  - Hirpro slice files: Not on hand at the moment, will be requesting copies from Jolimon to add shortly. 
  
  - Top/bottom plate files: Available in DXF, Kicad project files, or Gerbers ready for fab. Note on the Kicad project files, both top and bottom are their own components that will need to be added to the project when opened if they don't appear automatically. 
+ 
+ 
+ I'll be adding a list of used hardware shortly, I need to check back through to verify some of it.
