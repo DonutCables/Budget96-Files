@@ -10,6 +10,8 @@ Included in this are:
  
  - Picture showing the physical layout support of the plates.
  
+ - DWG file for the physical PCB layout that will show the PCB outline and *should* also show the mounting hole locations. 
+ 
  
 Hardware used:
 
