@@ -2,7 +2,7 @@ Repository for supporting files for the Budget96 keyboard. All are as-used for t
 
 Included in this are:
 
- - Middle slice files: Available in DXF and SVG.
+ - Middle slice files: Available in DXF and SVG. Dimensions should be 137x385mm if they don't show up in whatever program you're using. 
  
  - Hirpro slice files: Not on hand at the moment, will be requesting copies from Jolimon to add shortly. 
  
