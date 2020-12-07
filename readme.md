@@ -12,6 +12,8 @@ Included in this are:
  
  - DWG file for the physical PCB layout that will show the PCB outline and *should* also show the mounting hole locations. 
  
+  - A backup of the default PS2AVRGB firmware in case you need to restore to default for any reason.
+ 
  
 Hardware used:
 
